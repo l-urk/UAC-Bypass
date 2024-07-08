@@ -18,9 +18,13 @@ NOTE: if it stops at a random attempt that means the password its on contains on
 5. enjoy the admin cmd
 
 # Bypass
-1. download whatever installer you want
-2. make sure it has the uac shield logo in the corner of its icon
-3. drag it over bypass.bat
-4. have fun
+This scirpt runs any program that requires admin privilages as a regular user.
+For example an installer that has the UAC shield icon on it.
+1. Download bypass.bat.
+2. Locate the program / installer you want to execute.
+3. Drag it on to bypass.bat.
+4. The program will execute as user / as invoker, allowing you to run it with low privilages.
+5. If you're trying to install a program with this method, you may want to change the install location to somewhere like the desktop in case you do not have access to the program files directory.
+6. Don't be afraid to ask for help, post something in issues if you're lost.
 
-NOTE: if antivirus is detecing bypass.bat, do this with newbypass.bat
+NOTE: If antivirus is detecing bypass.bat, do this with newbypass.bat
