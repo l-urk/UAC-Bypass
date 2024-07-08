@@ -25,6 +25,6 @@ For example an installer that has the UAC shield icon on it.
 3. Drag it on to bypass.bat.
 4. The program will execute as user / as invoker, allowing you to run it with low privilages.
 5. If you're trying to install a program with this method, you may want to change the install location to somewhere like the desktop in case you do not have access to the program files directory.
-6. Don't be afraid to ask for help, post something in issues if you're lost.
 
+NOTE: Don't be afraid to ask for help, post something in issues if you're lost.
 NOTE: If antivirus is detecing bypass.bat, do this with newbypass.bat
