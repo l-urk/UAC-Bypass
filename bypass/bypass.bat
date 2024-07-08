@@ -1,1 +1,1 @@
-cmd /min /C "set __COMPAT_LAYER=runasinvoker && start "" "%1"
+cmd /min /C "set __COMPAT_LAYER=runasinvoker && start "%~1"
